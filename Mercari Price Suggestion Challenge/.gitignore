@@ -1,0 +1,10 @@
+#large files
+temp-plot.html
+train.tsv
+test.tsv
+sample_submission.csv
+tfidfclustering.html
+general_cat_stat.html
+sample_submission_stg2.csv
+subcat1_stat.html
+test_stg2.tsv
